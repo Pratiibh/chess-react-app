@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 
 import "./styles.css";
 
-      // in progress
+      // in progress small update
 
 
 function App() {
