@@ -16,5 +16,8 @@ function App() {
   );
 }
 
+// npm start is the command to see 
+// currently will only show the code sandbox startup page
+
 const rootElement = document.getElementById("root");
 ReactDOM.render(<App />, rootElement);
