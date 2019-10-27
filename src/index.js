@@ -19,5 +19,7 @@ function App() {
 // npm start is the command to see 
 // currently will only show the code sandbox startup page
 
+// this is now being done as a group project and all effort towards a chess application made using react will now go towards the final project for the 401 advanced javascript course
+
 const rootElement = document.getElementById("root");
 ReactDOM.render(<App />, rootElement);
